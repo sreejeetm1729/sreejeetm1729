@@ -5,7 +5,7 @@ Aside from my passion for mathematics, I also enjoy cooking, writing poetry, and
 And, I love elephants. A lot.
 
 - 📫 How to reach me: smaity2@ncsu.edu
-- My Google Scholar Profile: https://scholar.google.com/citations?user=tpNoQ3AAAAAJ&hl=en
+- 💡Google Scholar: https://scholar.google.com/citations?user=tpNoQ3AAAAAJ&hl=en
 
 <!---
 sreejeetm1729/sreejeetm1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
