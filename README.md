@@ -4,7 +4,6 @@ I am a Ph.D. student at the Department of ECE, North Carolina State University. 
 Aside from my passion for mathematics, I also enjoy cooking, writing poetry, and reflecting deeply.<br/>
 And, I love elephants. A lot. 🐘❤️
 
-- 📫 How to reach me: smaity2@ncsu.edu
 - 💡 Google Scholar: https://scholar.google.com/citations?user=tpNoQ3AAAAAJ&hl=en
 
 <!---
