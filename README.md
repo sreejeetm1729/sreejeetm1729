@@ -5,7 +5,7 @@ Aside from my passion for mathematics, I also enjoy cooking, reading, writing po
 Also, I love cats, and elephants. A lot. 🐘❤️😸
 
 - 💡 Google Scholar: https://scholar.google.com/citations?user=tpNoQ3AAAAAJ&hl=en
-
+- 🌐 Research Website: https://smaity1729rl.wordpress.ncsu.edu/
 <!---
 sreejeetm1729/sreejeetm1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
