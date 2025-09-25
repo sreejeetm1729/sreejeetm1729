@@ -13,8 +13,7 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tr>
   <td>
-    <img src="https://github.com/sreejeetm1729/Q-Learning-over-Static-and-Time-Varying-Networks/blob/main/Figures/combined_network_error.gif" style="width:650px">
-    <img src="https://github.com/sreejeetm1729/Robust-Federated-Q-Learning-with-Almost-No-communication/blob/main/Robust%20Fed-Q%20Animated%20corruption.gif" style="width:300px">
+    <img src="https://github.com/sreejeetm1729/Q-Learning-over-Static-and-Time-Varying-Networks/blob/main/Figures/combined_network_error.gif" style="width:800px">
  </td>  
 </tr>
 
