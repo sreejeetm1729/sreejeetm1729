@@ -10,11 +10,11 @@ Also, I love cats, and elephants. A lot. 🐘❤️😸
 sreejeetm1729/sreejeetm1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<table>
-<tr>
-  <td>
-    <img src="https://github.com/sreejeetm1729/Q-Learning-over-Static-and-Time-Varying-Networks/blob/main/Figures/combined_network_error.gif" style="width:1200px; height:380px; object-fit:contain;">
-    <img src="https://github.com/sreejeetm1729/Robust-Federated-Q-Learning-with-Almost-No-communication/blob/main/Figures%20Robust%20Fed-Q/Robust%20Fed-Q%20Animation.gif" style="width:1200px; height:380px; object-fit:contain;">
-  </td>  
-</tr>
 </table>
+<table> 
+  <tr> 
+    <td>
+      <img src="https://github.com/sreejeetm1729/Q-Learning-over-Static-and-Time-Varying-Networks/blob/main/Figures/combined_network_error.gif" style="width:800px"> 
+      <img src="https://github.com/sreejeetm1729/Robust-Federated-Q-Learning-with-Almost-No-communication/blob/main/Figures%20Robust%20Fed-Q/Robust%20Fed-Q%20Animation.gif" style="width:800px"> 
+    </td> 
+  </tr>
