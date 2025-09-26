@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tr>
   <td>
-    <img src="https://github.com/sreejeetm1729/Q-Learning-over-Static-and-Time-Varying-Networks/blob/main/Figures/combined_network_error.gif" style="width:800px">
+    <img src="https://github.com/sreejeetm1729/Q-Learning-over-Static-and-Time-Varying-Networks/blob/main/Figures/combined_network_error.gif" style="width:400px">
  </td>  
 </tr>
 
