@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <table> 
   <tr> 
     <td>
-      <img src="https://github.com/sreejeetm1729/MARL-Gym-Environment/blob/main/Training%20Video.gif" style="width:800px"> 
+      <img src="https://github.com/sreejeetm1729/MARL-Gym-Environment/blob/main/Training%20Video.gif" style="width:200px"> 
   </tr>
 </table>
 <table> 
