@@ -8,16 +8,5 @@ Also, I love cats, and elephants. A lot. 🐘❤️😸
 
 - 💡 [Google Scholar](https://scholar.google.com/citations?user=tpNoQ3AAAAAJ&hl=en)
 - 🌎 [Research Website](https://sreejeetm1729.github.io/)
-<!---
-sreejeetm1729/sreejeetm1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-</table>
-<table> 
-  <tr> 
-    <td>
-      <img src="https://github.com/sreejeetm1729/Q-Learning-over-Static-and-Time-Varying-Networks/blob/main/Figures/combined_network_error.gif" style="width:570px"> 
-      <img src="https://github.com/sreejeetm1729/Federated-MARL-Gym-Environment/blob/main/Training%20Video%20MARL-Gym-Single-Environment.gif" style="width:240px"> 
-    </td> 
-  </tr>
+
 
